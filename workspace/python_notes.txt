@@ -1,0 +1,5 @@
+Python is a high-level programming language known for readable syntax.
+
+It is widely used in automation, data analysis, machine learning, web development, and scripting.
+
+Important Python concepts include variables, loops, functions, classes, modules, exceptions, and file handling.

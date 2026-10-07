@@ -1,0 +1,7 @@
+Machine learning is a branch of artificial intelligence where systems learn patterns from data.
+
+Supervised learning uses labeled data.
+
+Common supervised learning algorithms include linear regression, logistic regression, decision trees, support vector machines, and k-nearest neighbors.
+
+Unsupervised learning works with unlabeled data. K-means clustering and PCA are common examples.

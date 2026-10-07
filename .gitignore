@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent-generated / local data
+memory.json
+vector_index.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+
+# Local development artifacts
+workspace/agent_test.txt
+workspace/ml_summary.txt
+workspace/ml_summary_v2.txt
+workspace/ml_summary_v3.txt
+workspace/ml_summary_v5.txt
+workspace/python_flashcards.txt
+workspace/python_flashcards_v2.txt
+workspace/python_flashcards_v3.txt
+workspace/python_flashcards_v4.txt
+workspace/python_summary.txt
+workspace/summary.txt
+workspace/test_note.txt
+workspace/verification_test.txt
+
+# Historical agent versions
+agent.py
+agent_v2.py
+agent_v3.py
+agent_v4.py
+agent_v5.py
+agent_v6.py
+agent_v7.py
+agent_v8.py
+agent_v9.py
+
+# Experimental test scripts
+embedding_test.py
+llm_test.py
+similarity_test.py
